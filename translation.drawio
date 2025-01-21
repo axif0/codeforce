@@ -16,11 +16,14 @@
         <mxCell id="IeOUgPAoGRNijfKwELKn-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="180" as="sourcePoint" />
-            <mxPoint x="220" y="180" as="targetPoint" />
+            <mxPoint x="160" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IeOUgPAoGRNijfKwELKn-5" value="Job Downloader" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="145" width="90" height="30" as="geometry" />
+        <mxCell id="IeOUgPAoGRNijfKwELKn-5" value="&lt;b&gt;&lt;sub&gt;Job Downloader&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;sub&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;- Latest dump&lt;/span&gt;&lt;br&gt;&lt;/sub&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;sub&gt;- Specific dump&lt;/sub&gt;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;sub&gt;&amp;nbsp;(Checks if the dump valid)&lt;/sub&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="160" y="142.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="IeOUgPAoGRNijfKwELKn-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="129" width="130" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
