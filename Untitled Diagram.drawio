@@ -145,7 +145,7 @@
         <mxCell id="5izjTm2DM-eRSwJzwUVy-51" value="Generate query" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="637.79" y="510" width="232.21" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="5izjTm2DM-eRSwJzwUVy-52" value="Convert queries into a readable format using &lt;code&gt;lexemeFormMetadata.json&lt;/code&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="5izjTm2DM-eRSwJzwUVy-51" vertex="1">
+        <mxCell id="5izjTm2DM-eRSwJzwUVy-52" value="Convert queries into a readable format using &lt;code&gt;lexeme_Form_Metadata.json&lt;/code&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="5izjTm2DM-eRSwJzwUVy-51" vertex="1">
           <mxGeometry y="30" width="232.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5izjTm2DM-eRSwJzwUVy-54" value="Follow camelCase naming conventions for consistency." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="5izjTm2DM-eRSwJzwUVy-51" vertex="1">
